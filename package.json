@@ -1,0 +1,34 @@
+{
+  "name": "ryzwan29-tea-testnet",
+  "version": "1.0.1",
+  "description": "deployment tea testnet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryzwan29/tea-testnet.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "ryzwan29",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryzwan29/tea-testnet/issues"
+  },
+  "homepage": "https://github.com/ryzwan29/tea-testnet#readme",
+  "dependencies": {
+    "ryzwan29-tea-testnet": "^1.0.0",
+    "string-width": "^5.1.2",
+    "string-width-cjs": "npm:string-width@^4.2.0",
+    "strip-ansi": "^7.0.1",
+    "strip-ansi-cjs": "npm:strip-ansi@^6.0.1",
+    "wrap-ansi": "^8.1.0",
+    "wrap-ansi-cjs": "npm:wrap-ansi@^7.0.0"
+  },
+  "devDependencies": {
+    "next": "^1.0.0"
+  }
+}
