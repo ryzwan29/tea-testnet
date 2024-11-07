@@ -1,3 +1,5 @@
+# [Resgister Here](https://app.tea.xyz/sign-up?r=xLw0-vNA0vG)
+
 - Create new repository
 - Open Gitpod with your tea-project repository
 ```
